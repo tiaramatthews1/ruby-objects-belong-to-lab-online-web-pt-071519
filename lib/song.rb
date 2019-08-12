@@ -6,6 +6,7 @@ def initialize(title)
 end
 end
 
+class a
 beyonce =artist.new("Beyonce")
 song = song.new("7/11")
 

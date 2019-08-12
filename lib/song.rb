@@ -14,7 +14,7 @@ class Artist
 end
 end
 beyonce = Artist.new("Beyonce")
-song = song.new("7/11")
+song = Song.new("7/11")
 
 
 song.artist.name = "Beyonce"

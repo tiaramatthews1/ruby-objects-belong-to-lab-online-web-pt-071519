@@ -8,7 +8,7 @@ end
 end
 
 beyonce = Artist.new("Beyonce")
-song_title = song.new("7/11")
+title = song.new("7/11")
 
 
-song_title.artist.name = "Beyonce"
+title.artist.name = "Beyonce"

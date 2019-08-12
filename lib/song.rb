@@ -13,7 +13,7 @@ class Artist
     @name = name
 end
 end
-beyonce = artist.new("Beyonce")
+beyonce = Artist.new("Beyonce")
 song = song.new("7/11")
 
 

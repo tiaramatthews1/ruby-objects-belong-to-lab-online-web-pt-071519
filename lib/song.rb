@@ -17,4 +17,4 @@ beyonce = Artist.new("Beyonce")
 song = Song.new("7/11")
 
 
-song.artist.name = "Beyonce"
+song.artist = "Beyonce"

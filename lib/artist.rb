@@ -7,4 +7,4 @@ def initialize(name)
 end
 end
 
-#beyonce = Artist.new("Beyonce")
+beyonce = Artist.new("Beyonce")

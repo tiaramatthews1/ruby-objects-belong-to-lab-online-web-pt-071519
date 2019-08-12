@@ -6,7 +6,13 @@ def initialize(title)
 end
 end
 
-class a
+class Artist 
+  attr_accessor :name 
+  
+  def initialize(name)
+    @name = name
+end
+end
 beyonce =artist.new("Beyonce")
 song = song.new("7/11")
 
